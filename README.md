@@ -12,4 +12,5 @@ Para Criptografar Textos Sagrados.
 <img width="514" height="268" alt="image" src="https://github.com/user-attachments/assets/c817f5a3-c637-499e-a963-97ccec4acf8b" />
 
 <p>Exercício feito no CodeWars (Kata5)</p>
-<img width="537" height="228" alt="image" src="https://github.com/user-attachments/assets/b0b43e93-1f21-4f6b-842b-4726a104cb19" />
+<img width="523" height="230" alt="image" src="https://github.com/user-attachments/assets/b8f773f0-1d85-4503-ab6e-7d751f82ac88" />
+
